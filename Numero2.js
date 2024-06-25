@@ -20,11 +20,3 @@ noBtn.addEventListener("mouseover", ()=> {
     noBtn.style.left = randomX + "px"; /*lo mando el No a un lado ramdon*/ 
     noBtn.style.top = randomY + "px"
 })
-
-<!DOCTYPE html>
-<html>
-<body>
-<h1>Hello World</h1>
-<p>I'm hosted with GitHub Pages.</p>
-</body>
-</html>
